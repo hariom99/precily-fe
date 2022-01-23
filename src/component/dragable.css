@@ -1,0 +1,18 @@
+.dragable-container-a{
+    display: flex;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.da-a{
+    margin-right: 3%;
+    margin-left: 2%;
+}
+body{
+    overflow-x: hidden;
+}
+
+.dragable-container-b{
+    display: flex;
+    width: 100%;
+    margin-bottom: 30px;
+}

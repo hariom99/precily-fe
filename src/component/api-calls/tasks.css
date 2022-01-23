@@ -1,0 +1,42 @@
+/* .task-container{    
+
+} */
+
+.task{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid rgb(225, 225, 231);
+    margin: 5px 0;
+}
+.edit
+{
+
+    cursor: pointer;
+    transform: rotate(100deg);
+
+}
+.delete{
+    cursor: pointer;
+    margin-right: 20px;
+    
+}
+
+.add-task{
+    font-size: 25px;
+    color: white;
+    background-color: rgb(16, 63, 63);
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    margin-bottom: 50px;
+}
+input{
+    margin-right: 10px;
+    height: 28px;
+}
+
+.api-count{
+    display: flex;
+    justify-content: space-evenly;
+}
